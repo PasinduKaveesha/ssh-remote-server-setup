@@ -2,6 +2,8 @@
 
 This project documents the process of setting up secure, key-based SSH access to a remote Linux server. It covers generating multiple SSH key pairs, adding them to the server, connecting with each key manually, and configuring `~/.ssh/config` to simplify future logins with short aliases.
 
+Project URL : https://roadmap.sh/projects/ssh-remote-server-setup
+
 > **Note:** No private keys are included in this repository. Only this README and (optionally) the public keys are safe to commit.
 
 ---
